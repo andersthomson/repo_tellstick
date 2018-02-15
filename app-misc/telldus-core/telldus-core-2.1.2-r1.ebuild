@@ -15,7 +15,7 @@ SRC_URI="http://download.telldus.se/TellStick/Software/telldus-core/${P}.tar.gz"
 
 LICENSE="LGPL-2"
 SLOT="0"
-KEYWORDS="~amd64 ~arm ~x86"
+KEYWORDS="~amd64 arm ~x86"
 IUSE=""
 LDFLAGS="-lpthread"
 DEPEND=""
